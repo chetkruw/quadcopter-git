@@ -1,0 +1,4 @@
+app_id : 1116705
+app_key : a2dc2e0365414bb28ef8537b92e2d5448a750178b982556ff1fb94b59cd0420a
+device : /dev/ttyTHS1
+baudrate : 230400
